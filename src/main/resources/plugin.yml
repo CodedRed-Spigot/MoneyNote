@@ -1,0 +1,7 @@
+name: MoneyNote
+version: '${project.version}'
+main: dev.codedred.moneynote.MoneyNote
+api-version: 1.18
+depend: [ Vault ]
+authors: [ CodedRed ]
+description: Advanced economy plugin that allows users to convert currency into MoneyNotes!
