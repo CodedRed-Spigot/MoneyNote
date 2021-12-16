@@ -7,6 +7,7 @@ public final class MoneyNote extends JavaPlugin {
     @Override
     public void onEnable() {
         // Plugin startup logic
+        //tests
 
     }
 
